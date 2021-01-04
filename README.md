@@ -46,6 +46,7 @@ Task API
 taskname: 测试1
 tasktype: 0      // 0 目标检测，1 图像分类，2 自然语言处理
 devid: 5edb36ceb
+devtype: 0  // 0 英伟达V100， 1 Jeston Nano， 2 瑞星微RK3399Pro， 3 比特大陆S5
 network: 0   // 0 YOLOv3，1 ResNet-50，2 BERT
 dataset: 0   // 0 ImageNet, 1 VOC2012, 2 WMT
 ```
