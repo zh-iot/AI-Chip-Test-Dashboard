@@ -63,6 +63,8 @@ dataset: 0   // 0 ImageNet, 1 VOC2012, 2 WMT
 终止任务
 ------------
 
+**delete /api/delete-task**
+
 **Form Data**
 
 ```
